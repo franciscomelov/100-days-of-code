@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0 - 14: Diciembre 9 - 22 019 
-##### (delete me or comment me out)
+### Day 0 - 14: Diciembre 9 - 22 2019 
 
 **Today's Progress**: Comence en solo publicando en twitter . El dia 24 de diciembre descubri el repo en githun sai que comenzare a contar mi progreso a partir de ahora.
 Las plataformas que estoy utilizando son [FreeCodeCamp](https://www.freecodecamp.org/franciscomelov) y [Platzi](https://platzi.com/@franciscomelov/) 
