@@ -1,30 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0 - 14: Diciembre 9 - 22 019 
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Comence en solo publicando en twitter . El dia 24 de diciembre descubri el repo en githun sai que comenzare a contar mi progreso a partir de ahora.
+Las plataformas que estoy utilizando son [FreeCodeCamp](https://www.freecodecamp.org/franciscomelov) y [Platzi](https://platzi.com/@franciscomelov/) 
+Anteriomente termine la certificacion Responsive Web Desing y realize los proyectos finales. [Link](https://franciscomelov.github.io/)
+Este reto lo comence con javascript en freecodecmap y cursos basicos en Platzi.
+Hasta ahora llevo terminado:
+FreeCodeCamp: Basic Javascript y ES6
+Platzi: Curso basico de programacion y Curso de desarrollo Web Online
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** La parte basica de javascript no fue tan complicada pero ES6 meto mas tiempo y algunos videos 
+En platzi fue un poco mas facil ya que ya hasta ahora solo a sido html y css; con lo que ya tenia experiencia
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
