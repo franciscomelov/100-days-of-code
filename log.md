@@ -14,4 +14,4 @@ Platzi: Curso basico de programacion y Curso de desarrollo Web Online
 En platzi fue un poco mas facil ya que ya hasta ahora solo a sido html y css; con lo que ya tenia experiencia
 
 **Link to work:** 
-
+[Platzi: curso de desarrollo web online](https://github.com/franciscomelov/proyectos_tutoriales/tree/master/Platzi-desarroll_web)
