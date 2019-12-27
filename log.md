@@ -19,7 +19,7 @@ En platzi fue un poco mas facil ya que ya hasta ahora solo a sido html y css; co
 ### Day 15 - 26 Diciembre 2019
 **Today's Progress**: Siguiendo con javacript en el curso Zero to mastery udemy andrei neagoie
 
-**Thoughts:** En el curso voy en lo basico asi que solo fue repado
+**Thoughts:** En el curso voy en lo basico asi que solo fue repaso
 
 **Link to work:** 
 https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM_alert-calc
