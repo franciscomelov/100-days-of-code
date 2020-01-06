@@ -38,6 +38,7 @@ https://github.com/franciscomelov/proyectos_tutoriales/blob/master/FCC_projectEu
 ### Day 17 - 5 enero 2020
 
 **Today's Progress**:Comence a ver informacion y videos (Platzi) sobre como funciona internet y las computadoras
+
 **Thoughts:** Es muy interesante la cantidad de procesos que hay hasta para lo mas simples, protocoles, servidores, cables submarinos, etc..
 
 
