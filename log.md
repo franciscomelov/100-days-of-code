@@ -41,4 +41,8 @@ https://github.com/franciscomelov/proyectos_tutoriales/blob/master/FCC_projectEu
 
 **Thoughts:** Es muy interesante la cantidad de procesos que hay hasta para lo mas simples, protocoles, servidores, cables submarinos, etc..
 
+### Day 18 - 6 enero 2020
+**Today's Progress**:Comencé con la seccion Regular Expressions de FreeCodeCamp
 
+### Day 19 - 7 enero 2020
+**Today's Progress**:Regular Expressions de FreeCodeCamp y Fundamentos de ingenieria en platzi
