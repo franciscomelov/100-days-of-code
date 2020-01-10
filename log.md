@@ -49,3 +49,9 @@ https://github.com/franciscomelov/proyectos_tutoriales/blob/master/FCC_projectEu
 
 ### Day 20 - 8 enero 2020
 **Today's Progress**:Regular Expressions de FreeCodeCamp y termine el curso  de Fundamentos de ingenieria en platzi
+
+### Day 21 - 9 enero 2020
+**Today's Progress**: complete el examendel curso de Fundamentos de ingenieria en platzi
+
+**Link to work:** 
+https://platzi.com/@franciscomelov/curso/1098-ingenieria/diploma/detalle/
