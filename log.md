@@ -55,3 +55,11 @@ https://github.com/franciscomelov/proyectos_tutoriales/blob/master/FCC_projectEu
 
 **Link to work:** 
 https://platzi.com/@franciscomelov/curso/1098-ingenieria/diploma/detalle/
+
+### Day 22 - 10 enero 2020
+**Today's Progress**:ejercicio 3 de project Euler y videos tecnicos
+
+**Thoughts:** Tuve problems al guardar los numeros primos en un array
+
+**Link to work:** 
+https://github.com/franciscomelov/proyectos_tutoriales/blob/master/FCC_projectEuler/Problem3:Largest_prime_factor.js
