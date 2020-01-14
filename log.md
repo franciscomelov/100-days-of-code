@@ -63,3 +63,15 @@ https://platzi.com/@franciscomelov/curso/1098-ingenieria/diploma/detalle/
 
 **Link to work:** 
 https://github.com/franciscomelov/proyectos_tutoriales/blob/master/FCC_projectEuler/Problem3:Largest_prime_factor.js
+
+### Day 23- 25 - 13 enero 2020 - 15 enero 2020
+**Today's Progress**: Comence el curso de introdducion a las bases de datos en platzi y he tratado de seguir con projectEuler
+
+**Thoughts:**: a diferencia de cuando empece con los lenguajes de programacion y ya tenianociones de como funcionaban, estoy comenzando desde 0 con bases de datos nunca habia visto o leido algun tutorial, me siento algo perdido. he terminado (casi) 2 ejercicios de project euler pero aunque ya medan el resultado esperado toma mas tiempo del que deberia
+
+**Link to work:** 
+https://github.com/franciscomelov/proyectos_tutoriales/blob/master/FCC_projectEuler/Problem5:Smallest_multiple.js
+https://github.com/franciscomelov/proyectos_tutoriales/blob/master/FCC_projectEuler/Problem7:10001st_prime.js
+
+
+
