@@ -74,10 +74,15 @@ https://github.com/franciscomelov/proyectos_tutoriales/blob/master/FCC_projectEu
 https://github.com/franciscomelov/proyectos_tutoriales/blob/master/FCC_projectEuler/Problem7:10001st_prime.js
 
 
-### Day 26- 28 - 14 enero 2020 - 15 enero 2020
+### Day 26- 28 - 14 enero 2020 - 16 enero 2020
 **Today's Progress**: arregle peque ños problemas con projec Euler 5, 7  y termine el problema 6 he estado trabajando en regex y bases de datos
 
 **Thoughts:**: trato de no solo resolver un problema, si no hacerlo de forma efectiva 
 
 **Link to work:** 
 https://github.com/franciscomelov/proyectos_tutoriales/blob/master/FCC_projectEuler/Problem6:Sum_square_difference.js
+
+### Day 29- 31 - 17 enero 2020 - 20 enero 2020
+**Today's Progress**:diseño de base de datos en platzi y el canal de youtube en freecodecamp. ya casi tengo un proyeecyo echo en papel solo faltan unos arreglos y lo pasare de papel a un programa de diseño de bases de datos
+
+**Thoughts:**; en platzi propusieron el ejercicio de hacer un proyecto propio y no solo esta siendo dificil hacerlo pero el solo tratar de pensar en un proyecto fue dificil.
