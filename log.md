@@ -86,3 +86,11 @@ https://github.com/franciscomelov/proyectos_tutoriales/blob/master/FCC_projectEu
 **Today's Progress**:diseño de base de datos en platzi y el canal de youtube en freecodecamp. ya casi tengo un proyeecyo echo en papel solo faltan unos arreglos y lo pasare de papel a un programa de diseño de bases de datos
 
 **Thoughts:**; en platzi propusieron el ejercicio de hacer un proyecto propio y no solo esta siendo dificil hacerlo pero el solo tratar de pensar en un proyecto fue dificil.
+
+### Day 32- 23, 25 enero 2020 
+**Today's Progress**: clase de base de datos, instale sql, active mi cuenta en google cloud
+
+**Thoughts:**: fue un poco complicado al principio pero des pues de usar el programa varias veces ya se siente mas facil
+
+**Link to work:** 
+https://raw.githubusercontent.com/franciscomelov/100-days-of-code/master/img/DB.png
