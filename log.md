@@ -87,7 +87,7 @@ https://github.com/franciscomelov/proyectos_tutoriales/blob/master/FCC_projectEu
 
 **Thoughts:**; en platzi propusieron el ejercicio de hacer un proyecto propio y no solo esta siendo dificil hacerlo pero el solo tratar de pensar en un proyecto fue dificil.
 
-### Day 32- 23, 25 enero 2020 
+### Day 32- 33, 25 enero 2020 
 **Today's Progress**: clase de base de datos, instale sql, active mi cuenta en google cloud
 
 **Thoughts:**: fue un poco complicado al principio pero des pues de usar el programa varias veces ya se siente mas facil
