@@ -100,4 +100,4 @@ https://raw.githubusercontent.com/franciscomelov/100-days-of-code/master/img/DB.
 
 **Thoughts:**:La primera vez que use DOM manpulation no  entendi pero despues de otro repaso siento que esta mas claro
 
-**Link to work:** https://platzi.com/@franciscomelov/curso/bd/diploma/
+**Link to work:** https://platzi.com/@franciscomelov/curso/bd/diploma/{:target="_blank" rel="noopener"}
