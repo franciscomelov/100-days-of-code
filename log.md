@@ -102,4 +102,8 @@ https://raw.githubusercontent.com/franciscomelov/100-days-of-code/master/img/DB.
 
 **Link to work:** https://platzi.com/@franciscomelov/curso/bd/diploma/
 
+### Day 42- 43, 7 febrero 2020
+**Today's Progress**:use javascript en un proyecto mas real una lista de compras todo list, por ahora solo es el funcionamiento y no la estetica
+**Thoughts:**: usar javascript para un proyecto real fue mas divertido que solo ver/leer lecciones
+**Link to work:** https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/DOM/add_list2
 
