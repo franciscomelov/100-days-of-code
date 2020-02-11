@@ -109,3 +109,8 @@ https://raw.githubusercontent.com/franciscomelov/100-days-of-code/master/img/DB.
 
 **Link to work:** https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/DOM/add_list2
 
+### Day 44, 10 febrero 2020
+**Today's Progress**:practique con un generador de color de background 
+**Thoughts:**: fue un proyecto divertido, me siento mas comodo con callBackFunctions
+
+**Link to work:**https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/DOM/background_generator
