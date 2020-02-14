@@ -117,10 +117,14 @@ https://raw.githubusercontent.com/franciscomelov/100-days-of-code/master/img/DB.
 
 
 ### Day 45, 11 febrero 2020
-**Today's Progress**:javascript en Zero to Mastery, es6
-**Thoughts:**: fue un proyecto divertido, me siento mas comodo con callBackFunctions
+**Today's Progress**:javascript en Zero to Mastery, es6  
+**Thoughts**: fue un proyecto divertido, me siento mas comodo con callBackFunctions
 
 **Link to work:**https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/scoop
 https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/ES5_ES6
 https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/control_flow
+
+### Day 46-47, 12,13 febrero 2020
+**Today's Progress**:javascript en Zero to Mastery y dfundamentos de diseño en platzy
+**Thoughts**: una vezmas se  me esta dificultando JS (Siempre pasa con un tma nuevo)
 
