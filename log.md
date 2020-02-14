@@ -17,8 +17,7 @@ En platzi fue un poco mas facil ya que ya hasta ahora solo a sido html y css; co
 [Platzi: curso de desarrollo web online](https://github.com/franciscomelov/proyectos_tutoriales/tree/master/Platzi-desarroll_web)
 
 ### Day 15 - 26 Diciembre 2019
-**Today's Progress**: Siguiendo con javacript en el curso Zero to mastery udemy andrei neagoie
-
+**Today's Progress**: Siguiendo con javacript en el curso Zero to mastery udemy andrei neagoie  
 **Thoughts:** En el curso voy en lo basico asi que solo fue repaso
 
 **Link to work:** 
@@ -125,6 +124,6 @@ https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascrip
 https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/control_flow
 
 ### Day 46-47, 12,13 febrero 2020
-**Today's Progress**:javascript en Zero to Mastery y dfundamentos de diseño en platzy
+**Today's Progress**:javascript en Zero to Mastery y dfundamentos de diseño en platzy  
 **Thoughts**: una vezmas se  me esta dificultando JS (Siempre pasa con un tma nuevo)
 
