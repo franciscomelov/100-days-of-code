@@ -123,7 +123,19 @@ https://raw.githubusercontent.com/franciscomelov/100-days-of-code/master/img/DB.
 https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/ES5_ES6
 https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/control_flow
 
-### Day 46-47, 12,13 febrero 2020
+### Day 46-48, 12,13 febrero 2020
 **Today's Progress**:javascript en Zero to Mastery y dfundamentos de diseño en platzy  
 **Thoughts**: una vezmas se  me esta dificultando JS (Siempre pasa con un tma nuevo)
 
+### Day 49,50, 17,18,19 febrero 2020
+**Today's Progress**:javascript en Zero to Mastery, es7, es8, funciones,objetos
+**Thoughts**: la sintaxis nueva siempre es dificil al principio, pero creo que cada vez me sieno mas comodo al aprender algo nuevo
+
+**Link to work:**
+https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/type_Coercion
+https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/advanced_objects
+https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/advanced_functions
+https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/advanced_array
+https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/ES8
+https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/ES7
+https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/ES10(ES2019
