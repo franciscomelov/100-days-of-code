@@ -127,7 +127,7 @@ https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascrip
 **Today's Progress**:javascript en Zero to Mastery y dfundamentos de diseño en platzy  
 **Thoughts**: una vezmas se  me esta dificultando JS (Siempre pasa con un tma nuevo)
 
-### Day 49,50, 17,18,19 febrero 2020
+### Day 49,50,51 17,18,19 febrero 2020
 **Today's Progress**:javascript en Zero to Mastery, es7, es8, funciones,objetos
 **Thoughts**: la sintaxis nueva siempre es dificil al principio, pero creo que cada vez me sieno mas comodo al aprender algo nuevo
 
@@ -138,4 +138,12 @@ https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascrip
 https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/advanced_array
 https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/ES8
 https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/ES7
+
+
+### Day 52,  22 febrero 2020
+**Today's Progress**: vi la funcion debugger, objetos loop of, in
+**Thoughts**: la sintaxis mas avanzada de objetos se esta volviendo mas complicada
+
+**Link to work:**
+https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/advanced_loops
 https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/ES10(ES2019
