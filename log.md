@@ -148,7 +148,7 @@ https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascrip
 https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/advanced_loops
 https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/ES10(ES2019
 
-### Day 53,54,55,  22 febrero 2020
+### Day 53,54,55, - 24,25 26 febrero 2020
 **Today's Progress**: termine Advanced Javascrpit de andrei nagerri con los proyectos finales y 2 ejercicios de project Euler
 **Thoughts**: Ya conozco nueva sintaxis pero aun no me siento tan familiarizado al usarla va a tomar tiempo para integrarla a la hora de pensar una solucion
 
