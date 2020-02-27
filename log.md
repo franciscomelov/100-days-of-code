@@ -147,3 +147,14 @@ https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascrip
 **Link to work:**
 https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/advanced_loops
 https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/ES10(ES2019
+
+### Day 53,54,55,  22 febrero 2020
+**Today's Progress**: termine Advanced Javascrpit de andrei nagerri con los proyectos finales y 2 ejercicios de project Euler
+**Thoughts**: Ya conozco nueva sintaxis pero aun no me siento tan familiarizado al usarla va a tomar tiempo para integrarla a la hora de pensar una solucion
+
+**Link to work:**
+https://github.com/franciscomelov/proyectos_tutoriales/blob/master/FCC_projectEuler/Problem8_Largest_product_in_a_series.js
+https://github.com/franciscomelov/proyectos_tutoriales/blob/master/FCC_projectEuler/Problem4_Largest_palindrome_product.js
+https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/final_challenges
+
+
