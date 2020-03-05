@@ -157,4 +157,21 @@ https://github.com/franciscomelov/proyectos_tutoriales/blob/master/FCC_projectEu
 https://github.com/franciscomelov/proyectos_tutoriales/blob/master/FCC_projectEuler/Problem4_Largest_palindrome_product.js
 https://github.com/franciscomelov/proyectos_tutoriales/tree/master/ZTM/javascript/Advanced_javascript/final_challenges
 
+### Day 56,57,58, - 27,28,29 febrero 2020
+**Today's Progress**: javascrupt ZTM he hice mi primer pull request a github des de la terminal
+**Thoughts**: En un principio se me complicaron los comando de git pero, solo es cuestion de practica
+
+**Link to work:**
+https://github.com/franciscomelov/Git-practice
+
+### Day 59,60,62,62 - 1,2,3,4,5 marzo 2020
+**Today's Progress**: git/guthub, npm, iniciando con react, hice mi primer pull request a otro repositorio para practicar
+**Thoughts**: unavez mas inicio con nueva sintaxis react es parecido a html/javascript asi que espero que no se me complique tanto
+
+**Link to work:**
+https://github.com/franciscomelov/Git-practice/tree/master/FCC_codingPrep
+https://github.com/franciscomelov/Git-practice/tree/master/npm
+
+
+
 
