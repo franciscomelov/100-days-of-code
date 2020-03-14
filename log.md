@@ -173,5 +173,13 @@ https://github.com/franciscomelov/Git-practice/tree/master/FCC_codingPrep
 https://github.com/franciscomelov/Git-practice/tree/master/npm
 
 
+### Day 63 -69 - -- 13 marzo 2020
+**Today's Progress**: npm, react, git, github, netl.fy
+**Thoughts**: aun encuentro dificil reactque es interesante 
+
+**Link to work:**
+https://franciscomelov.netlify.com/
+https://franciscomelov.github.io/robofriends/
+
 
 
